@@ -13,7 +13,7 @@ static const mozilla::Module::CIDEntry kMatchboxKeyboardInvokerCIDs[] = {
 };
 
 static const mozilla::Module::ContractIDEntry kMatchboxKeyboardInvokerContracts[] = {
-    { MOZMATCHBOXKEYBOARDINVOKER_CONSTRACTID, &kMOZMATCHBOXKEYBOARDINVOKER_CID },
+    { MOZMATCHBOXKEYBOARDINVOKER_CONTRACTID, &kMOZMATCHBOXKEYBOARDINVOKER_CID },
     { NULL }
 };
 
