@@ -41,5 +41,5 @@ Components.classes["@racklin.gmail.com/mb-invoker;1"].getService(Components.inte
 
 License
 -----------------------------
-Licensed under the [MPL License](http://mozilla.org/mpl/2.0/).
+Licensed under the [MPL License](http://mozilla.org/MPL/2.0/).
 
